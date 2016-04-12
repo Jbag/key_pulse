@@ -1,0 +1,45 @@
+m255
+K4
+z2
+13
+cModel Technology
+dD:\FPGA\altera13.0project\key_edge\sim
+!i10d 8192
+!i10e 25
+!i10f 100
+vkey_pulse
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+IC1hWcf1mH1YaSPSCZ28^@1
+Z1 dD:\FPGA\altera13.0project\key_pulse\sim
+w1460471044
+8D:/FPGA/altera13.0project/key_pulse/design/key_pulse.v
+FD:/FPGA/altera13.0project/key_pulse/design/key_pulse.v
+L0 4
+Z2 OL;L;10.2;57
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/key_pulse/design/key_pulse.v|
+!s100 PZFoNHfKKLC2h]?FSiJZ=1
+!s108 1460471049.143000
+!s107 D:/FPGA/altera13.0project/key_pulse/design/key_pulse.v|
+!i10b 1
+vkey_pulse_tb
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+IK<b;j[bz:BRk@4CXmX;KA3
+R1
+w1460471043
+8D:/FPGA/altera13.0project/key_pulse/design/key_pulse_tb.v
+FD:/FPGA/altera13.0project/key_pulse/design/key_pulse_tb.v
+L0 3
+R2
+R3
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|D:/FPGA/altera13.0project/key_pulse/design/key_pulse_tb.v|
+!i10b 1
+!s100 K_N3oGSnOo]iL5Q03^N`=2
+!s108 1460471049.243000
+!s107 D:/FPGA/altera13.0project/key_pulse/design/key_pulse_tb.v|

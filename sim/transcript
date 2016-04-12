@@ -1,0 +1,153 @@
+# Reading C:/my/modeltech64_10.2/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.2 Feb  2 2013 
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile D:/FPGA/altera13.0project/key_pulse/sim/key_pulse.mpf 
+# Loading project key_pulse
+# Compile of key_pulse.v was successful.
+# Compile of key_pulse_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -novopt work.key_pulse_tb
+# vsim -novopt work.key_pulse_tb 
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse_tb
+# Loading work.key_pulse_tb
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse
+# Loading work.key_pulse
+add wave -position insertpoint sim:/key_pulse_tb/key_pulse_inst/*
+run
+# Closing project D:/FPGA/altera13.0project/key_pulse/sim/key_pulse.mpf
+# reading C:\my\modeltech64_10.2\win64/../modelsim.ini
+# Loading project key_edge
+# Compile of key_edge.v was successful.
+# Compile of key_edge_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -novopt work.key_edge_tb
+# vsim -novopt work.key_edge_tb 
+# Refreshing D:/FPGA/altera13.0project/key_edge/sim/work.key_edge_tb
+# Loading work.key_edge_tb
+# Refreshing D:/FPGA/altera13.0project/key_edge/sim/work.key_edge
+# Loading work.key_edge
+add wave -position insertpoint sim:/key_edge_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Causality operation skipped due to absence of debug database file
+# Closing project D:/FPGA/altera13.0project/key_edge/sim/key_edge.mpf
+# reading C:\my\modeltech64_10.2\win64/../modelsim.ini
+# Loading project PLL_learn
+# Compile of PLL_learn.v was successful.
+# Compile of PLL_learn_tb.v was successful.
+# Compile of PLL.v was successful.
+# Compile of PLL_bb.v was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim -novopt work.PLL_learn_tb
+# vsim -novopt work.PLL_learn_tb 
+# Refreshing D:/FPGA/altera13.0project/PLL_learn/sim/work.PLL_learn_tb
+# Loading work.PLL_learn_tb
+# Refreshing D:/FPGA/altera13.0project/PLL_learn/sim/work.PLL_learn
+# Loading work.PLL_learn
+# Refreshing D:/FPGA/altera13.0project/PLL_learn/sim/work.PLL
+# Loading work.PLL
+add wave -position insertpoint sim:/PLL_learn_tb/*
+run
+# Closing project D:/FPGA/altera13.0project/PLL_learn/sim/PLL_learn.mpf
+# reading C:\my\modeltech64_10.2\win64/../modelsim.ini
+# Loading project key_pulse
+# Compile of key_pulse.v was successful.
+# Compile of key_pulse_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -novopt work.key_pulse_tb
+# vsim -novopt work.key_pulse_tb 
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse_tb
+# Loading work.key_pulse_tb
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse
+# Loading work.key_pulse
+add wave -position insertpoint sim:/key_pulse_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+vsim -novopt work.key_pulse_tb
+# vsim -novopt work.key_pulse_tb 
+# Loading work.key_pulse_tb
+# Loading work.key_pulse
+add wave -position insertpoint sim:/key_pulse_tb/key_pulse_inst/#ALWAYS#16,57/*
+add wave -position insertpoint sim:/key_pulse_tb/key_pulse_inst/#ALWAYS#16,57/*
+add wave -position insertpoint sim:/key_pulse_tb/*
+run
+run
+# Compile of key_pulse.v was successful.
+# Compile of key_pulse_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -novopt work.key_pulse_tb
+# vsim -novopt work.key_pulse_tb 
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse_tb
+# Loading work.key_pulse_tb
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse
+# Loading work.key_pulse
+add wave -position insertpoint sim:/key_pulse_tb/*
+add wave -position insertpoint sim:/key_pulse_tb/key_pulse_inst/#ALWAYS#16,57/*
+run
+run
+run
+run
+run
+run
+run
+# Compile of key_pulse.v was successful.
+# Compile of key_pulse_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+add wave -position insertpoint sim:/key_pulse_tb/*
+run
+run
+run
+run
+run
+run
+vsim -novopt work.key_pulse_tb
+# vsim -novopt work.key_pulse_tb 
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse_tb
+# Loading work.key_pulse_tb
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse
+# Loading work.key_pulse
+add wave -position insertpoint sim:/key_pulse_tb/*
+add wave -position insertpoint sim:/key_pulse_tb/key_pulse_inst/#ALWAYS#16,57/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of key_pulse.v was successful.
+# Compile of key_pulse_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -novopt work.key_pulse_tb
+# vsim -novopt work.key_pulse_tb 
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse_tb
+# Loading work.key_pulse_tb
+# Refreshing D:/FPGA/altera13.0project/key_pulse/sim/work.key_pulse
+# Loading work.key_pulse
+add wave -position insertpoint sim:/key_pulse_tb/*
+run
+run
+run -continue
+run

@@ -1,0 +1,15 @@
+D:/FPGA/altera13.0project/key_pulse/design/key_pulse.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/key_pulse/design/key_pulse.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module key_pulse
+
+Top level modules:
+	key_pulse
+
+} {} {}} D:/FPGA/altera13.0project/key_pulse/design/key_pulse_tb.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/key_pulse/design/key_pulse_tb.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module key_pulse_tb
+
+Top level modules:
+	key_pulse_tb
+
+} {} {}}
